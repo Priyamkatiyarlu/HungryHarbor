@@ -1,0 +1,25 @@
+{
+  "name": "hungrtharbor",
+  "version": "1.0.0",
+  "description": "Food ordering app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyamkatiyarlu/HungryHarbor.git"
+  },
+  "author": "Priyam Katiyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyamkatiyarlu/HungryHarbor/issues"
+  },
+  "homepage": "https://github.com/Priyamkatiyarlu/HungryHarbor#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
